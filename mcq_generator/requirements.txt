@@ -1,0 +1,13 @@
+# Core dependencies
+Django==4.2
+djangorestframework==3.14.0
+
+# AI/ML dependencies
+transformers==4.39.3
+torch==2.2.1
+sentencepiece==0.2.0
+accelerate==0.27.2
+numpy==1.26.4
+
+# Utility dependencies
+logging==0.4.9.6

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MCQ Generator</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <h1>MCQ Generator</h1>
+    <form id="mcq-form" method="post">
+        {% csrf_token %}
+        <label for="textInput">Enter your text:</label><br>
+        <textarea id="textInput" name="text" rows="10" cols="50"></textarea><br>
+        <label for="mcqCount">Number of MCQs (max 20):</label>
+        <input type="number" id="mcqCount" name="mcqCount" value="5" min="1" max="20"><br>
+        <button type="submit">Generate MCQs</button>
+    </form>
+    <div id="mcq-results"></div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

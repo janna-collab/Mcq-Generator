@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which of the following is TRUE according to the text?",
+        "options": [
+            "A) Placeholder Option 1",
+            "B) Placeholder Option 2",
+            "C) Placeholder Option 3",
+            "D) Placeholder Option 4"
+        ],
+        "answer": "A) Placeholder Option 1"
+    },
+    {
+        "question": "Elon Musk has _ .",
+        "options": [
+            "A) Placeholder Option 1",
+            "B) Placeholder Option 2",
+            "C) Placeholder Option 3",
+            "D) Placeholder Option 4"
+        ],
+        "answer": "B) Placeholder Option 2"
+    },
+    {
+        "question": "Which of the following is TRUE according to the text?",
+        "options": [
+            "A) Placeholder Option 1",
+            "B) Placeholder Option 2",
+            "C) Placeholder Option 3",
+            "D) Placeholder Option 4"
+        ],
+        "answer": "C) Placeholder Option 3"
+    },
+    {
+        "question": "What is the best title for the passage?",
+        "options": [
+            "A) Placeholder Option 1",
+            "B) Placeholder Option 2",
+            "C) Placeholder Option 3",
+            "D) Placeholder Option 4"
+        ],
+        "answer": "A) Placeholder Option 1"
+    },
+    {
+        "question": "Failed to generate question",
+        "options": [
+            "A) Placeholder Option 1",
+            "B) Placeholder Option 2",
+            "C) Placeholder Option 3",
+            "D) Placeholder Option 4"
+        ],
+        "answer": "A) Placeholder Option 1"
+    }
+]
